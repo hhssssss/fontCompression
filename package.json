@@ -1,0 +1,25 @@
+{
+  "name": "fontcompression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "font": "0.0.4",
+    "fontmin": "^0.9.6",
+    "min": "^0.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhssssss/fontCompression.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhssssss/fontCompression/issues"
+  },
+  "homepage": "https://github.com/hhssssss/fontCompression#readme"
+}
